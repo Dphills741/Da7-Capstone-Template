@@ -38,4 +38,4 @@ The second challenge I faced using data sets over such a time period was changes
 ### **Conclusions**
 [Drug Mortality per Prescription in the U.S. - Tableau Dashboard]
 https://public.tableau.com/app/profile/daniel.hills/viz/DrugMortalityperPrescriptionintheU_S_/Dashboard1?publish=yes
-!
+!https://github.com/Dphills741/Da7-Capstone-Template/blob/main/Images/Dashboard%201.png
