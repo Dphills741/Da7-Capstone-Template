@@ -9,7 +9,6 @@ Capstone Project for Cohort DA7 at Nashville Software School
 - [Challenges](#Challenges)
 - [Conclusions](#Conclusions)
 - [Use Case Scenario 1](#Use-Case-Scenario-1)
-- [Use Case Scenario 2](#Use-Case-Scenario-2)
 
 ### **Motivation** 
 Since 2019 I have worked in multiple retail and hospital pharmacies, and have been in close contact with multiple altercations involving fake prescriptions, fake faxes and all sorts of cons to gain medications illegally. In this project, I will explore the amount of legally acquired drugs and gain insight on how that affects our American population. I hope this may raise awareness of drug addiction, and give possible actionable insights about drug control. 
@@ -37,5 +36,9 @@ The second challenge I faced using data sets over such a time period was changes
 
 ### **Conclusions**
 [Drug Mortality per Prescription in the U.S. - Tableau Dashboard]
-https://public.tableau.com/app/profile/daniel.hills/viz/DrugMortalityperPrescriptionintheU_S_/Dashboard1?publish=yes
-!https://github.com/Dphills741/Da7-Capstone-Template/blob/main/Images/Dashboard%201.png
+(https://public.tableau.com/app/profile/daniel.hills/viz/DrugMortalityperPrescriptionintheU_S_/Dashboard1?publish=yes)
+![Drug Mortality per Prescription in the U.S. - Tableau Dashboard](https://github.com/Dphills741/Da7-Capstone-Template/blob/main/Images/Dashboard%201.png)
+
+The Dashboard above shows my findings for an overtime look at the best and worst states for amount of addictive perscriptions and the correlating mortality. A reminder that the larger Deaths per Perscription is better. States like New Hampshire with a rising lane demonstrate an improvement between number of deaths and amount of perscriptions. The majority of states have a negative trend showing that deaths continue to increase faster than number of prescriptions. This shows how much an epidemic opioids and benzodiazepines are for the United States, even our statistically superior states are trending towards a higher rate of death/addiction. 
+
+[Insert Here Findings on Treatment]
