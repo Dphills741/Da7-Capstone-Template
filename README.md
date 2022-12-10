@@ -16,8 +16,11 @@ Since 2019 I have worked in multiple retail and hospital pharmacies, and have be
 ### **Data Sources and Tools**   
 **Data Sources**   
 Drug Data : https://catalog.data.gov/dataset/state-drug-utilization-data-2020-3e746
+
 FAQ Drug Questions : https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-utilization-data/state-drug-utilization-data-faq/index.html?search_api_fulltext=91956 
+
 Drug Mortality Data : https://www.cdc.gov/nchs/pressroom/sosmap/drug_poisoning_mortality/drug_poisoning.htm
+
 Substance Abuse Treatment Data : https://www.samhsa.gov/data/data-we-collect/n-ssats-national-survey-substance-abuse-treatment-services
 
 **Tools**
@@ -32,7 +35,10 @@ I further then broke this down by state. This allowed me to gain a total amount 
 
 ### **Challenges**
 The first challenge that arose was labeling as many opioid and benzodiazepines as possible within my dataset. I started with medications that were the most commonly abused, but found that there is little standardization within Medicaid data. There were more than five listings of morphine that all had to be accounted for within the code. 
+
 The second challenge I faced using data sets over such a time period was changes in data structure and keys.
+
+The third main challenge of this is that it does not include possible medications outside of opioids and benzodiazepines that may increase the mortality statistics. This is purely a look at those medications. 
 
 ### **Conclusions**
 [Drug Mortality per Prescription in the U.S. - Tableau Dashboard]
